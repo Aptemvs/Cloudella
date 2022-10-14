@@ -1,0 +1,3 @@
+/Users/aptem/CLionProjects/Cloudella/cmake-build-debug/CMakeFiles/Cloudella.dir
+/Users/aptem/CLionProjects/Cloudella/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aptem/CLionProjects/Cloudella/cmake-build-debug/CMakeFiles/rebuild_cache.dir
