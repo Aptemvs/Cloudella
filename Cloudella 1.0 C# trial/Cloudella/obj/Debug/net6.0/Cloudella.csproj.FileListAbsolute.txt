@@ -1,0 +1,15 @@
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/bin/Debug/net6.0/Cloudella
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/bin/Debug/net6.0/Cloudella.deps.json
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/bin/Debug/net6.0/Cloudella.runtimeconfig.json
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/bin/Debug/net6.0/Cloudella.dll
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/bin/Debug/net6.0/Cloudella.pdb
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/Cloudella.csproj.AssemblyReference.cache
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/Cloudella.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/Cloudella.AssemblyInfoInputs.cache
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/Cloudella.AssemblyInfo.cs
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/Cloudella.csproj.CoreCompileInputs.cache
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/Cloudella.dll
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/refint/Cloudella.dll
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/Cloudella.pdb
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/Cloudella.genruntimeconfig.cache
+/Users/aptem/VisualStudioProjects/Cloudella/Cloudella/obj/Debug/net6.0/ref/Cloudella.dll

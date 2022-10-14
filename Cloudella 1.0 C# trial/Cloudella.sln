@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloudella", "Cloudella\Cloudella.csproj", "{CBEE753E-DC69-40EE-BB5A-3718B3419455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBEE753E-DC69-40EE-BB5A-3718B3419455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEE753E-DC69-40EE-BB5A-3718B3419455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEE753E-DC69-40EE-BB5A-3718B3419455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEE753E-DC69-40EE-BB5A-3718B3419455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1284A788-A7C4-4CF3-95F9-2B55CF0E43C9}
+	EndGlobalSection
+EndGlobal
